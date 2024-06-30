@@ -1,4 +1,4 @@
-<h1>I'm Oleksiy Telenchak</h1>
+<h1>I'm Oleksii Telenchak</h1>
 
 - 💻 Core stack: JS/TS, React, NodeJS
 - 🔥 Interested in Web Development
