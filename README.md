@@ -4,8 +4,10 @@
 - 🔥 Interested in Web Development
 <hr />
 <h3>Stats</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloleksii&layout=compact)
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloleksii&layout=compact" height="195px"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eloleksii" height="195px" />
+</div>
 
 <h2>Contacts</h2>
 <a target="_blank" href="mailto:letel315@gmail.com"><img alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
