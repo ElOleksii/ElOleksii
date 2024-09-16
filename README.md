@@ -2,8 +2,12 @@
 <img alt="Art" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-2.gif" align="right" width="200"/>
 - 💻 Core stack: JS, React, NodeJS
 - 🔥 Interested in Web Development
+<hr />
+<h3>Stats</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloleksii&layout=compact)
 
-<h1>Contacts</h1>
-<a target="_blank" href="@letel315@gmail.com"><img alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<h2>Contacts</h2>
+<a target="_blank" href="mailto:letel315@gmail.com"><img alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="t.me/elclass1c"><img alt="telegram"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/oleksii-telenchak/"><img alt="linkedin"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
