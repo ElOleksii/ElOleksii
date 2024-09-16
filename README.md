@@ -3,7 +3,8 @@
 - 💻 Core stack: JS, React, NodeJS
 - 🔥 Interested in Web Development
 <hr />
-<h3>Stats</h3>
+<br />
+<h3 style="margin-top: 50px;">Stats</h3>
 <div align="center" style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloleksii&layout=compact" height="195px"  />
   <img src="https://github-readme-stats.vercel.app/api?username=eloleksii" height="195px" />
