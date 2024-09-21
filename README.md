@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF22F7&width=435&lines=Hi%2C+I'm+Oleksii+Telenchak!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-<img alt="Art" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-2.gif" align="right" width="200"/>
+<img alt="Art" src="https://media1.tenor.com/m/IqQc0m3TvuYAAAAd/the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku.gif" align="right" width="400"/>
+
 - 💻 Core stack: JS, React, NodeJS
 - 🔥 Interested in Web Development
 <hr />
