@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF22F7&width=435&lines=Hi%2C+I'm+Oleksii+Telenchak!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF22F7&width=435&lines=Hi%2C+I'm+Telenchak+Oleksii!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 - 💻 Core stack: JS, React, NodeJS
 - 🔥 Interested in Web Development
 <hr />
