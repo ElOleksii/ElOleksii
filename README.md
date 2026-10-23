@@ -1,17 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DF22F7&width=435&lines=Hi%2C+I'm+Oleksii+Telenchak!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-- 💻 Core stack: JS, React, NodeJS
-- 🔥 Interested in Web Development
-<hr />
-<br />
+### Hi, I'm Oleksii 👋
+
+Backend developer from Ukraine. I build APIs and LLM-powered services with **Node.js, NestJS and PostgreSQL**.
+Software Engineering student at Odesa Polytechnic, focused on **LLM integrations and AI security**.
+
+Open to **junior backend** roles — remote or in the EU
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,prisma,redis,graphql&theme=dark" alt="Backend stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,linux,git,cpp,qt&theme=dark" alt="Other tools" />
+</p>
+
+### Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**LearnFlow**](https://github.com/USERNAME/learnflow) | AI study planner with SM-2 spaced repetition | NestJS · PostgreSQL · Gemini |
+| [**Nebula**](https://github.com/USERNAME/nebula) | Automatic test generation using LLMs | TypeScript · LLM APIs |
+| [**YA Clean Experts**](https://yacleanexperts.nl) | Production site for a Dutch cleaning company, NL/EN/UA | Next.js · Vercel |
 
 
-<h3 style="margin-top: 50px;">Stats</h3>
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloleksii&layout=compact" height="195px"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eloleksii" height="195px" />
-</div>
+### Contact
 
-<h2>Contacts</h2>
-<a target="_blank" href="mailto:letel315@gmail.com"><img alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/oleksii-telenchak/"><img alt="linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="https://t.me/elclass1c"><img alt="telegram"  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/USERNAME)
