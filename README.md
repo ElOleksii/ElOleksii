@@ -8,19 +8,10 @@ Open to **junior backend** roles — remote or in the EU
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,prisma,redis,graphql&theme=dark" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,prisma,redis&theme=dark" alt="Backend stack" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,linux,git,cpp,qt&theme=dark" alt="Other tools" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,linux,git&theme=dark" alt="Other tools" />
 </p>
-
-### Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**LearnFlow**](https://github.com/USERNAME/learnflow) | AI study planner with SM-2 spaced repetition | NestJS · PostgreSQL · Gemini |
-| [**Nebula**](https://github.com/USERNAME/nebula) | Automatic test generation using LLMs | TypeScript · LLM APIs |
-| [**YA Clean Experts**](https://yacleanexperts.nl) | Production site for a Dutch cleaning company, NL/EN/UA | Next.js · Vercel |
-
 
 ### Contact
 
